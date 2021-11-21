@@ -3,6 +3,7 @@ npm install
 
 # Terminal #1
 npm run build
+
 npm run watch
 
 # Terminal #2
